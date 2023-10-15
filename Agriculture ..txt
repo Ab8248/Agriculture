@@ -1,0 +1,23 @@
+                                                             India's Agricultural crop Production Analysis
+                                                              Sri Amaraavathi College of Arts and Science 
+
+INTRODUCTION
+      * Agricultural is an important sector in india. 
+      *In this project we analyse more about crop cultivation and season for cultivation
+
+PURPOSE
+      *Crop production is the basis for providing the livestock industry with feed and the population with food
+
+ADVANTAGE
+       *Crop rotation prevents soil from weeds,pests and disease
+       *It ensures crop protection and availability of nutrients to the crops
+
+DISADVANTAGE
+     *The present challenges that plague indian agricultural are limited knowledge and insufficient infrastructure,
+especially in the rural areas
+
+APPLICATION
+      *Agriculture analysis is a very important aspect to crop growing
+
+CONCLUSION
+     *All these initiatives have led to sustainable and inclusive development of the sector	
